@@ -1,4 +1,4 @@
-# Trabajo Practido de React
+# Trabajo Practico de React
 
 Aqui estan cargado todos los ejercicios de HTML que se fueron realizando en las clases.
 
